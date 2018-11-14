@@ -1,0 +1,151 @@
+html,body{
+	margin:0;
+	padding:0;
+	overflow-x:hidden;
+	background-color: grey;
+}
+
+header{
+	margin : 0 auto;
+	background-color: darkgrey;
+	width:80%;
+}
+
+#bandeau{
+	position:relative;
+	height: 160px;
+}
+
+#logo{
+ float: left;
+ box-shadow:inset 8px 8px 12px #000;
+
+}
+
+#logoText{
+	display: absolute;
+	display: inline-block;
+}
+h1{
+	text-align: center;
+}
+#dicton{
+	font-size: x-small;
+	color: white;
+}
+#dicton span{
+	background-color: black;
+}
+nav li{
+
+
+}
+#navigation ul{
+	margin-bottom: 0px;
+	position: absolute;
+	display: inline-block;
+	text-align: right;
+
+	
+
+}
+#navigation li{
+	display: inline-block;
+
+}
+#navigation li:first-child{
+
+
+}
+main{
+	margin : auto;
+	width:80%;
+	background-color: #008080;
+
+}
+h2{
+	margin:0;
+}
+article{
+
+
+}
+.little{
+
+
+}
+aside{
+
+
+}
+.select{
+
+
+}	
+
+#annexe li a{
+
+
+}
+.propriete{
+
+
+
+}
+.propriete:after{
+
+
+}
+
+}
+#auteur{
+
+}
+#auteur li{
+
+}
+
+.designer {
+
+}
+
+#clear{
+
+}
+
+#clear li{
+
+}
+#clear li a{
+;
+}
+/* Positionnement du pied de Page  */
+footer{
+	margin : 0 auto;
+	width:80%;
+	background-color: yellow;
+}
+#tutos{
+
+}
+.thumbs{
+
+}
+.thumbs a{
+
+}
+.thumbs:hover{
+
+}
+.thumbs:hover a{
+
+}
+#mentions{
+
+}
+#mentions time{
+
+}
+#copy{
+t;
+}
