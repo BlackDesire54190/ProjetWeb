@@ -41,6 +41,8 @@ nav li{
 
 }
 #navigation ul{
+	right:0;
+	bottom: 0;
 	margin-bottom: 0px;
 	position: absolute;
 	display: inline-block;
